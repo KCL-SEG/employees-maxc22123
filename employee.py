@@ -7,7 +7,7 @@ class Employee:
         self.pay = pay
         self.commission = commission
         self.total = 0
-
+"""maxisbad"""
     def get_pay(self):
         total = 0
         if len(self.pay) == 1:
